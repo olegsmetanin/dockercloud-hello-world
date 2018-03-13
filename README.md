@@ -1,7 +1,9 @@
 hello-world
 ===========
 
-[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
+[dockercloud/hello-world](https://github.com/docker/dockercloud-hello-world) with HTTP Headers
+
+![Screenshot](screen.png)
 
 Sample docker image to test docker deployments
 
@@ -9,7 +11,7 @@ Sample docker image to test docker deployments
 
 Build and run using Docker Compose:
 
-	$ git clone https://github.com/docker/dockercloud-hello-world
+	$ git clone https://github.com/olegsmetanin/dockercloud-hello-world
 	$ cd dockercloud-hello-world
 	$ docker-compose up
 
