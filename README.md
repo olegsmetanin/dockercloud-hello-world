@@ -3,7 +3,7 @@ hello-world
 
 [dockercloud/hello-world](https://github.com/docker/dockercloud-hello-world) with HTTP Headers
 
-![Screenshot](screen.png)
+![Screenshot](https://github.com/olegsmetanin/dockercloud-hello-world/raw/master/screen.png)
 
 Sample docker image to test docker deployments
 
